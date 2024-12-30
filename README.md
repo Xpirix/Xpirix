@@ -10,13 +10,13 @@
 <img src="https://komarev.com/ghpvc/?username=Xpirix&label=Profile%20views&color=0e75b6&style=flat" alt="Xpirix" /> 
 </p>
 
-- 🔭 I’m currently working on **maintaining QGIS' websites.**
+- 🔭 I’m currently working on **maintaining QGIS' websites**
 - 🌱 I’m currently learning **System Administration, NixOs, ReactJS and so many other things**
 - 👯 I’m looking to collaborate on **OpenSource Web/GIS development**
 - 🤔 I’m looking for help with **running Nix VMs on Apple Silicon based MacOs**
 - 💬 Ask me about **Web GIS, QGIS, Urban Water Management in Antananarivo, Madagascar**
 - 📫 How to reach me: **xpirixii@gmail.com** or **lova@kartoza.com**
-- ⚡ Fun fact: ***A random movie made me fall in love with coding.***
+- ⚡ Fun fact: ***A random movie made me fall in love with coding***
 
 <br>
 
@@ -43,8 +43,11 @@
   <a href="https://qgis.org" target="_blank" rel="noreferrer"> <img src="https://qgis.org/img/logosign.svg" alt="qgis" width="40" height="40"/></a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>  
   <a href="https://rxjs.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rxjs/rxjs-original.svg" alt="rxjs" width="40" height="40"/></a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>  
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>  
+  <a href="https://sentry.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original.svg" alt="sentry" width="40" height="40"/></a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> 
+  <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/></a>    
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>   
 
 </p>
 
