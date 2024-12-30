@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **maintaining QGIS' websites**
 - 🌱 I’m currently learning **System Administration, NixOs, ReactJS and so many other things**
-- 👯 I’m looking to collaborate on **OpenSource Web/GIS development**
+- 👯 I’m looking to collaborate on **open-source Web/GIS development**
 - 🤔 I’m looking for help with **running Nix VMs on Apple Silicon based MacOs**
 - 💬 Ask me about **Web GIS, QGIS, Urban Water Management in Antananarivo, Madagascar**
 - 📫 How to reach me: **xpirixii@gmail.com** or **lova@kartoza.com**
