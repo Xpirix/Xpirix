@@ -55,4 +55,4 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Xpirix&show_icons=true&locale=en" alt="Xpirix" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Xpirix&" alt="Xpirix" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Xpirix" alt="Xpirix" /></p>
